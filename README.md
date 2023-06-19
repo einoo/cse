@@ -13,8 +13,6 @@ Control simulation experiment
   pages   = {133--139},
   volume  = {29},
   doi     = {10.5194/npg-29-133-2022},
-  file    = {:Miyoshi_and_Sun-2022-NPG.pdf:PDF},
-  groups  = {CSE},
 }
 ```
 ```
@@ -25,7 +23,6 @@ Control simulation experiment
   year    = {2023},
   volume  = {30,}
   pages   = {1--11},
-  volume  = {2023},
   doi     = {10.5194/npg-30-1-2023},
 }
 ```
