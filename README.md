@@ -21,9 +21,10 @@ Control simulation experiment
   journal = {Nonlinear Processes in Geophysics},
   title   = {Reducing manipulations in control simulation experiment based on instability vectors with {Lorenz-63} model},
   year    = {2023},
-  volume  = {30,}
-  pages   = {1--11},
-  doi     = {10.5194/npg-30-1-2023},
+  volume  = {30},
+  number  = {2},
+  pages   = {183--193},
+  doi     = {10.5194/npg-30-183-2023},
 }
 ```
 
